@@ -54,7 +54,7 @@ Datetime Handling: The script standardizes datetime objects to naive (timezone-u
 Rclone Commands: Utilizes Rclone for file operations, requiring correct configuration and path specification.
 File Comparison: Compares local and remote files based on names and modification times to determine the necessity of syncing.
 
-#Install rclone
+# Install rclone
 download zip here unzip to C:\rclone-v1.64.2
 
 meaning in C:\rclone-v1.64.2 you should see the following files git-log.txt rclone.exe and so on
