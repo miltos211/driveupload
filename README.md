@@ -22,7 +22,7 @@ Edit `config.cfg` to set up the utility:
 - `[Schedule]` to set the interval for running the sync operation.
 
 Example `config.cfg`:
-```ini
+
 [Rclone]
 # Path to the Rclone executable
 RCLONE_EXECUTABLE = C:\\rclone-v1.64.2\\rclone.exe
